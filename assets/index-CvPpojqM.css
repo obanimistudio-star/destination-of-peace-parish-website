@@ -8,5 +8,5 @@
 .charity-number{color:#a76e13;font-weight:900;white-space:nowrap}.gallery-placeholder{border:2px dashed var(--line);background:var(--page);border-radius:20px;min-height:190px;place-items:center;padding:30px;display:grid}.gallery-placeholder>div{text-align:center;display:grid;gap:8px}.gallery-placeholder strong{font-size:24px}.gallery-placeholder span{color:var(--muted)}
 @media (width<=700px){.charity-number{white-space:normal;width:100%;text-align:center}}
 
-.hero-charity-number{position:absolute;right:clamp(18px,4vw,58px);bottom:clamp(18px,2.5vw,34px);z-index:4;padding:8px 14px;border-radius:12px;background:#ffffffd9;color:#172d65;font-weight:900;font-size:clamp(12px,1.25vw,17px);box-shadow:0 5px 18px #0002;backdrop-filter:blur(4px)}
+.hero-charity-number{position:absolute;right:clamp(18px,4vw,58px);bottom:clamp(18px,2.5vw,34px);z-index:4;padding:4px 8px;color:#172d65;font-weight:900;font-size:clamp(12px,1.25vw,17px);text-shadow:0 1px 2px #fff,0 0 5px #fff}
 @media (width<=700px){.hero-charity-number{right:18px;bottom:18px;font-size:12px;padding:7px 10px}}
