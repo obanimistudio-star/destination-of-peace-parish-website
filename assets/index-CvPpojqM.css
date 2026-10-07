@@ -4,3 +4,6 @@
 @media (min-width:701px) and (max-width:1050px) and (max-height:500px){.parish-banner{grid-template-columns:42% 58%}.ccc-emblem{width:112%;max-width:500px;align-self:start;margin-top:8px}}
 @media (min-width:701px) and (max-width:1050px) and (min-height:501px) and (orientation:portrait){.parish-banner{grid-template-columns:38% 62%}.ccc-emblem{width:72%;max-width:390px;align-self:start;margin-top:12px}}
 @media (min-width:701px) and (max-width:1050px) and (min-height:501px) and (orientation:landscape){.parish-banner{grid-template-columns:36% 64%}.ccc-emblem{width:78%;max-width:420px;align-self:start;margin-top:12px}}
+
+.charity-number{color:#a76e13;font-weight:900;white-space:nowrap}.gallery-placeholder{border:2px dashed var(--line);background:var(--page);border-radius:20px;min-height:190px;place-items:center;padding:30px;display:grid}.gallery-placeholder>div{text-align:center;display:grid;gap:8px}.gallery-placeholder strong{font-size:24px}.gallery-placeholder span{color:var(--muted)}
+@media (width<=700px){.charity-number{white-space:normal;width:100%;text-align:center}}
