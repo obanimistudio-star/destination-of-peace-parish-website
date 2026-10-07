@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Private project preview. Do not index this area.
